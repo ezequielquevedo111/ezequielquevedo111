@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ezequiel Quevedo</h1>
-<h3 align="center"Soy un apasionado desarrollador FrontEnd de Córdoba, Argentina</h3>
+<h3 align="center">Soy un apasionado desarrollador FrontEnd de Córdoba, Argentina</h3>
 
 - 🔭 Actualmente estoy trabajando en **Mario Bros Store**
 
