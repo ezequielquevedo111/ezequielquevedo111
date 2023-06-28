@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, soy Ezequiel Quevedo</h1>
 <h3 align="center">Soy un apasionado desarrollador FrontEnd de Córdoba, Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en **Mario Bros Store**
-
-- 🌱 En el presente estoy aprendiendo **Javascript en profundidad para próximamente trabajarlo en conjunto con un framework como React**
+- 🌱 En el presente estoy aprendiendo **React JS en profundidad **
 
 - 📫 Me puedes contactar a través de: **ezequielquevedo111@gmail.com o mi cuenta de Instagram ezequield22**
 
