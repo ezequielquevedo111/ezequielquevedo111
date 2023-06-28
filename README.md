@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ezequiel Quevedo</h1>
 <h3 align="center">Soy un apasionado desarrollador FrontEnd de Córdoba, Argentina</h3>
 
-- 🌱 En el presente estoy aprendiendo **React JS en profundidad **
+- 🌱 En el presente estoy aprendiendo React JS en profundidad.
 
 - 📫 Me puedes contactar a través de: **ezequielquevedo111@gmail.com o mi cuenta de Instagram ezequield22**
 
