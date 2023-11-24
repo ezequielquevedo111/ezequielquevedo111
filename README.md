@@ -1,8 +1,12 @@
 <h1 align="center">Buenas, ¿cómo estás? Mi nombre es Eze y vengo de la provincia de Córdoba, Argentina</h1>
 <h3 align="center">Desarrollo aplicaciones web Front End con diferentes frameworks y librerías</h3>
 
+
+
 <h3 align="center">Además en la actualidad estoy aprendiendo desarrollo Backend especialmente con Node JS para dedicarme de lleno como Full Stack.</h3>
 - Algunos de mis trabajos consistieron desde páginas estáticas utilizando HTML5, CSS3, SASS, GIT y GitHub, como también el desarrollo de aplicaciones totalmente vanilla de la mano de Javascript como de SPA utilizando ReactJS cómo librería.
+
+
 
  <h3 align="left">Los lenguajes y herramientas con las que actualmente trabajo son entre otras:</h3> 
 <p align="left">
@@ -14,6 +18,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="30" width="40"/>
 </p>
+
+
+
 
 
 <h3 align="left">📫 Me puedes contactar a través de: **ezequielquevedo111@gmail.com o mi cuenta de Linkedin ezequieldanielquevedo**</h3>
