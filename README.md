@@ -1,3 +1,7 @@
+
+![Untitled](https://github.com/ezequielquevedo111/ezequielquevedo111/assets/109804108/b0e7bde5-46f7-4b81-ab8e-fa573fe26abd)!
+
+
 <h1 align="center">Buenas, ¿cómo estás? Mi nombre es Eze y vengo de la provincia de Córdoba, Argentina</h1>
 <h3 align="center">Desarrollo aplicaciones web Front End con diferentes frameworks y librerías</h3>
 
