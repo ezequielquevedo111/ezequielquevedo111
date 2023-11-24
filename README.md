@@ -5,7 +5,7 @@
 - Algunos de mis trabajos consistieron desde páginas estáticas utilizando HTML5, CSS3, SASS, GIT y GitHub, como también el desarrollo de aplicaciones totalmente vanilla de la mano de Javascript como de SPA utilizando ReactJS cómo librería.
 
  <h3 align="left">Los lenguajes y herramientas con las que actualmente trabajo son entre otras:</h3> 
-  
+<p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40" />          
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
@@ -13,7 +13,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="30" width="40"/>
-</div>
+</p>
 
 
 <h3 align="left">📫 Me puedes contactar a través de: **ezequielquevedo111@gmail.com o mi cuenta de Linkedin ezequieldanielquevedo**</h3>
