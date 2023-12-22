@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">📫 Me puedes contactar a través de: **ezequielquevedo111@gmail.com o mi cuenta de Linkedin ezequieldanielquevedo**</h3>
+<h3 align="left">📫 Me puedes contactar a través de: ezequielquevedo111@gmail.com o mi cuenta de Linkedin ezequieldanielquevedo**</h3>
 <h3 align="center">Muchas gracias por leer y que la fuerza te acompañe🖐</h3>
           
           
