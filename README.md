@@ -1,13 +1,11 @@
 
-![aaaa](https://github.com/ezequielquevedo111/ezequielquevedo111/assets/109804108/1bfbf20b-4532-43f1-9dcc-49993b4fc595)
-
 
 <h1 align="center">Buenas, ¿cómo estás? Mi nombre es Eze y vengo de la provincia de Córdoba, Argentina</h1>
 <h3 align="center">Desarrollo aplicaciones web  con diferentes frameworks y librerías</h3>
 
 
 
-<h3 align="center">Además en la actualidad estoy aprendiendo desarrollo Backend especialmente con Node JS para dedicarme de lleno como Full Stack.</h3>
+<h3 align="center">Además en la actualidad estoy aprendiendo desarrollo Backend especialmente con Node JS para dedicarme de lleno como desarrollador backend.</h3>
 - Algunos de mis trabajos consistieron desde páginas estáticas utilizando HTML5, CSS3, SASS, GIT y GitHub, como también el desarrollo de aplicaciones totalmente vanilla de la mano de Javascript como de SPA utilizando ReactJS cómo librería.
 
 
